@@ -71,8 +71,8 @@ This will automatically:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AbdullahShariq/customer-churn-prediction.git
-cd customer-churn-prediction
+git clone https://github.com/AbdullahShariq/Churn-Prediction.git
+cd Churn-Prediction
 ```
 ### 2. Install dependencies
 ```bash
